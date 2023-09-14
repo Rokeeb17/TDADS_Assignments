@@ -18,6 +18,7 @@ import random
 #use random integer, print, while loop
 minValue = 1
 maxValue = 6
+#to initialise the variable for the while loop
 rollAgain = 'y' 
 while rollAgain == 'y' or rollAgain == 'yes':
     print('Rolling the dice')
